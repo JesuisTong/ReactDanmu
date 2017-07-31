@@ -1,0 +1,12 @@
+.container {
+	width: 100%;
+	height: 400px;
+	position: relative;	
+	overflow: hidden;
+}
+button {
+	color: red;
+}
+button:first-child {
+	color: green;
+}

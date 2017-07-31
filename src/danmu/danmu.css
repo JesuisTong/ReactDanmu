@@ -1,0 +1,6 @@
+.danmu {
+	height: 24px;
+	line-height: 24px;
+	position: absolute;
+	transition-property: transform;
+}
