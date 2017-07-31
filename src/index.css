@@ -1,5 +1,5 @@
 .container {
-	width: 100%;
+	width: 300px;
 	height: 400px;
 	position: relative;	
 	overflow: hidden;
@@ -9,4 +9,7 @@ button {
 }
 button:first-child {
 	color: green;
+}
+video {
+	position: absolute;
 }

@@ -48,6 +48,7 @@ export default class Container extends Component {
         const { isVanished, content, danmuList } = this.state;
         return (
             <div className='layer'>
+                <video src='https://media.weipaitang.com/o_1501471430200obYWbhfH78IY3Qg.mp4' width='300px' height='400px' autoPlay controls />
                 <div
                     className='container'
                     style={{ opacity: isVanished ? 0 : 1 }}
